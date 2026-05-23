@@ -11,7 +11,7 @@ YELLOW='\033[1;33m'
 NC='\033[0m'
 
 # Variables de configuration
-ZABBIX_SERVER="10.0.0.108"
+ZABBIX_SERVER="10.0.10.108"
 ZABBIX_CONF="/etc/zabbix/zabbix_agent2.conf"
 
 # Vérification root
